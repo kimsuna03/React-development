@@ -1,10 +1,9 @@
-import "./App.css";
-import ColumnSeries from "./Column";
+import Column2 from "./Column2";
 
 function App() {
   return (
     <div className="App">
-      <ColumnSeries />
+      <Column2 />
     </div>
   );
 }
